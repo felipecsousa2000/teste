@@ -1,0 +1,1 @@
+SELECT * FROM aluno.base_de_dados;
